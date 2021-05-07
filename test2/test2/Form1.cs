@@ -21,6 +21,7 @@ namespace test2
         {
             MessageBox.Show("asdadwad");
             MessageBox.Show("pridani test");
+            MessageBox.Show("haf");
         }
     }
 }
